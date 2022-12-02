@@ -1,0 +1,3 @@
+#!/bin/body
+ls -al
+ . .. /boot
